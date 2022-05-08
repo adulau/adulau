@@ -3,7 +3,7 @@
 
 # Bio
 
-My name is Alexandre Dulaunoy (adulau). I break stuff and I do stuff. The majority of my work is [open source](https://opensource.org/osd) (or [free software](https://en.wikipedia.org/wiki/The_Free_Software_Definition)) in various fields such as information security. I'm part of the following organisation on GitHub where I'm regularly contributing such as @MISP @AIL-project @d4-project @circl @cve-search @hashlookup and some others were I'm contributing a bit less.
+My name is Alexandre Dulaunoy (adulau). I break stuff and I do stuff. The majority of my work is [open source](https://opensource.org/osd) (or [free software](https://en.wikipedia.org/wiki/The_Free_Software_Definition)) in various fields such as information security. I'm part of the following organisation on GitHub where I'm regularly contributing such as [@MISP](https://github.com/MISP) [@AIL-project](https://github.com/ail-project) [@d4-project](https://github.com/d4-project) [@circl](https://github.com/circl) [@cve-search](https://github.com/cve-search) [@hashlookup](https://github.com/hashlookup) and some others were I'm contributing a bit less.
 
 <a href="https://twitter.com/adulau">
   <img align="left" alt="Alexandre Dulaunoy's Twitter" width="20px" src="https://simpleicons.now.sh/twitter/495f7e" />
