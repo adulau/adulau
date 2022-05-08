@@ -12,6 +12,7 @@ My name is Alexandre Dulaunoy (adulau). I break stuff and I do stuff. The majori
   <img align="left" alt="Alexandre Dulaunoy's flickr" width="20px" src="https://simpleicons.now.sh/flickr/495f7e" />
 </a><br />
 
+Keeping track on all the software I contributed or started is nearly impossible. You can have a look at some below but it's just some recent ones:
 
 ### Software I initially developed and maintain
 
@@ -27,6 +28,7 @@ My name is Alexandre Dulaunoy (adulau). I break stuff and I do stuff. The majori
 
 |Software|Description|State|
 |:---:|:---|:---:|
+|[DomainClassifier](https://github.com/adulau/DomainClassifier)|DomainClassifier is a simple Python library to extract and classify Internet domains/hostnames/IP addresses from raw unstructured text files following their existence, localization or attributes.|Active|
 |[hashlookup-forensic-analyser](https://github.com/hashlookup/hashlookup-forensic-analyser)|Analyse a forensic target (such as a directory) to find and report files found and not found from [CIRCL hashlookup public service](https://hashlookup.circl.lu/).|Active|
 |[hashlookup-lib](https://github.com/hashlookup/hashlookup-lib)|Hashlookup is a library to import hashes records into a hashlookup server.|Active|
 |[hashlookup-nsrl](https://github.com/hashlookup/hashlookup-nsrl)|hashlookup-nsrl is a [NSRL RDSv3](https://www.nist.gov/itl/ssd/software-quality-group/national-software-reference-library-nsrl) importer for [hashlookup-server](https://github.com/adulau/hashlookup-server).|Active|
