@@ -8,9 +8,6 @@ My name is Alexandre Dulaunoy (adulau). I break stuff and I do stuff. The majori
 <a href="https://infosec.exchange/@adulau" rel="me">
   <img align="left" alt="Alexandre Dulaunoy's Mastodon" width="20px" src="https://simpleicons.now.sh/mastodon/495f7e" />
 </a>
-<a href="https://twitter.com/adulau">
-  <img align="left" alt="Alexandre Dulaunoy's Twitter" width="20px" src="https://simpleicons.now.sh/twitter/495f7e" />
-</a>
 <a href="https://www.flickr.com/photos/adulau/">
   <img align="left" alt="Alexandre Dulaunoy's flickr" width="20px" src="https://simpleicons.now.sh/flickr/495f7e" />
 </a><br />
