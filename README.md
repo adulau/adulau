@@ -18,14 +18,19 @@ Keeping track of everything I have started, maintained, or contributed to is nea
 
 I am part of the MISP core team and contribute across its software, data models, documentation, and open specifications. I also work with the [AIL Project](https://github.com/ail-project), [D4 Project](https://github.com/D4-project), and [CIRCL](https://github.com/circl) communities.
 
+I have maintained [misp-modules](https://github.com/MISP/misp-modules) for years and also started a small MISP hackathon several years ago.
+
 | Project | What it helps people do |
 |:---|:---|
 | [MISP](https://github.com/MISP/MISP) | Collect, correlate, and share threat intelligence across organisations. |
 | [MISP taxonomies](https://github.com/MISP/misp-taxonomies), [galaxies](https://github.com/MISP/misp-galaxy), [objects](https://github.com/MISP/misp-objects), and [warning lists](https://github.com/MISP/misp-warninglists) | Give intelligence shared vocabularies, context, structured representations, and checks against misleading indicators. |
+| [misp-modules](https://github.com/MISP/misp-modules) | Extend MISP with enrichment, import, export, and workflow actions through reusable modules that can also run independently. |
 | [AIL](https://github.com/ail-project/ail-framework) | Collect and analyse unstructured information, track leaks and threats, and support investigations. |
+| [Tempolocus](https://github.com/ail-project/tempolocus) | Infer likely timezones and locations from activity patterns over time, supporting analysis in AIL. |
 | [D4](https://github.com/D4-project/d4-core) | Build distributed sensor networks for collecting and analysing security telemetry. |
 | [RansomLook](https://github.com/RansomLook/RansomLook) | Track ransomware groups and their public activity, including leak-site publications. |
 | [Threat Actor Explorer](https://github.com/adulau/threat-actor-explorer) | Explore the MISP galaxy threat-actor dataset locally in a browser. |
+| [Fanything](https://github.com/fanything-project) | Explore network fingerprinting for correlation and CTI pivoting. The project and its fingerprint format are in an early, experimental phase. |
 
 ## Vulnerabilities and disclosure
 
@@ -58,6 +63,8 @@ These are tools I initially developed or maintain, from identifying known files 
 Earlier work includes [pdns-qof-server](https://github.com/adulau/pdns-qof-server), [pdns-toolkit](https://github.com/adulau/pdns-toolkit), and [crl-monitor](https://github.com/adulau/crl-monitor), exploring passive DNS and the history of certificates and Internet infrastructure.
 
 ## Open standards and IETF Internet-Drafts
+
+My standards work also includes participation in the [OASIS Cyber Threat Intelligence (CTI) Technical Committee](https://github.com/oasis-tcs/cti-stix2), which develops STIX and TAXII for representing and exchanging threat intelligence.
 
 Working implementations and open specifications belong together. I author or co-author Internet-Drafts to document formats, make independent implementations possible, and improve interoperability. The documents below are **Internet-Drafts**; their current status and revisions are available in the IETF Datatracker.
 
