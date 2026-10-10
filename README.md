@@ -62,11 +62,31 @@ These are tools I initially developed or maintain, from identifying known files 
 
 Earlier work includes [pdns-qof-server](https://github.com/adulau/pdns-qof-server), [pdns-toolkit](https://github.com/adulau/pdns-toolkit), and [crl-monitor](https://github.com/adulau/crl-monitor), exploring passive DNS and the history of certificates and Internet infrastructure.
 
-## Open standards and IETF Internet-Drafts
+## Open standards
 
-My standards work also includes participation in the [OASIS Cyber Threat Intelligence (CTI) Technical Committee](https://github.com/oasis-tcs/cti-stix2), which develops STIX and TAXII for representing and exchanging threat intelligence.
+Working implementations and open specifications belong together. I work on standards that make security information easier to publish, exchange, and use across independent tools and communities. My standards work also includes participation in the [OASIS Cyber Threat Intelligence (CTI) Technical Committee](https://github.com/oasis-tcs/cti-stix2).
 
-Working implementations and open specifications belong together. I author or co-author Internet-Drafts to document formats, make independent implementations possible, and improve interoperability. The documents below are **Internet-Drafts**; their current status and revisions are available in the IETF Datatracker.
+### GCVE — open vulnerability standards and practices
+
+I contribute to the [GCVE initiative](https://github.com/gcve-eu), the Global CVE Allocation System, developing specifications and Best Current Practices for a decentralised vulnerability ecosystem. This work connects identifier allocation, vulnerability publication, operational guidance, and interoperable data models with implementations such as Vulnerability-Lookup.
+
+The [GCVE BCP collection](https://github.com/gcve-eu/gcve.eu/tree/main/content/bcp) includes published documents and drafts under public review. Areas of this work include:
+
+- **Trusted directories and distributed publication:** [directory signature verification (BCP-01)](https://github.com/gcve-eu/gcve.eu/blob/main/content/bcp/gcve-bcp-01.md) and [decentralised publication (BCP-03)](https://github.com/gcve-eu/gcve.eu/blob/main/content/bcp/gcve-bcp-03.md).
+- **Disclosure, allocation, and governance:** [vulnerability handling and disclosure (BCP-02)](https://github.com/gcve-eu/gcve.eu/blob/main/content/bcp/gcve-bcp-02.md), [identifier allocation (BCP-04)](https://github.com/gcve-eu/gcve.eu/blob/main/content/bcp/gcve-bcp-04.md), [numbering authority requirements (BCP-06)](https://github.com/gcve-eu/gcve.eu/blob/main/content/bcp/gcve-bcp-06.md), [record scope (BCP-09)](https://github.com/gcve-eu/gcve.eu/blob/main/content/bcp/gcve-bcp-09.md), and the [vulnerability assigner scorecard (BCP-13)](https://github.com/gcve-eu/gcve.eu/blob/main/content/bcp/gcve-bcp-13.md).
+- **Vulnerability records and provenance:** the [GCVE vulnerability format (BCP-05)](https://github.com/gcve-eu/gcve.eu/blob/main/content/bcp/gcve-bcp-05.md) and extensions for [AI-assisted annotations](https://github.com/gcve-eu/gcve.eu/blob/main/content/bcp/extension/gcve-bcp-05-x-01.md), [patch-to-vulnerability generation provenance](https://github.com/gcve-eu/gcve.eu/blob/main/content/bcp/extension/gcve-bcp-05-x-02.md), and [handling and disclosure timelines](https://github.com/gcve-eu/gcve.eu/blob/main/content/bcp/extension/gcve-bcp-05-x-03.md).
+- **Exploitation evidence and observations:** [KEV assertions and NKEV assessments (BCP-07)](https://github.com/gcve-eu/gcve.eu/blob/main/content/bcp/gcve-bcp-07.md) and the [vulnerability sighting format (BCP-12)](https://github.com/gcve-eu/gcve.eu/blob/main/content/bcp/gcve-bcp-12.md).
+- **Affected products:** [improved Common Platform Enumeration (BCP-10)](https://github.com/gcve-eu/gcve.eu/blob/main/content/bcp/gcve-bcp-10.md).
+
+The specifications evolve through an [open development and review process](https://github.com/gcve-eu/gcve.eu/blob/main/content/process.md), with community feedback and implementation experience informing revisions.
+
+### MISP standards
+
+Through [misp-standard.org](https://www.misp-standard.org/), I help develop, maintain, and publish free and open standards for collaborative intelligence. This includes the MISP core, taxonomy, galaxy, and object template formats, connecting shared data models with working implementations across the threat intelligence ecosystem. The [standards website and publication sources](https://github.com/MISP/misp-standard.org) complement the [MISP specification sources](https://github.com/MISP/misp-rfc) and their Internet-Drafts.
+
+### IETF Internet-Drafts
+
+I author or co-author Internet-Drafts to document formats, make independent implementations possible, and improve interoperability. The documents below are **Internet-Drafts**; their current status and revisions are available in the IETF Datatracker.
 
 | Specification | Purpose |
 |:---|:---|
