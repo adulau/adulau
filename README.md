@@ -18,13 +18,13 @@ Keeping track of everything I have started, maintained, or contributed to is nea
 
 I am part of the MISP core team and contribute across its software, data models, documentation, and open specifications. I also work with the [AIL Project](https://github.com/ail-project), [D4 Project](https://github.com/D4-project), and [CIRCL](https://github.com/circl) communities.
 
-I have maintained [misp-modules](https://github.com/MISP/misp-modules) for years and also started a small MISP hackathon several years ago.
+I have worked on [misp-modules](https://github.com/MISP/misp-modules) for years and continue to maintain it. It has become key tooling for MISP and other CTI tools. I also started a small MISP hackathon several years ago.
 
 | Project | What it helps people do |
 |:---|:---|
 | [MISP](https://github.com/MISP/MISP) | Collect, correlate, and share threat intelligence across organisations. |
 | [MISP taxonomies](https://github.com/MISP/misp-taxonomies), [galaxies](https://github.com/MISP/misp-galaxy), [objects](https://github.com/MISP/misp-objects), and [warning lists](https://github.com/MISP/misp-warninglists) | Give intelligence shared vocabularies, context, structured representations, and checks against misleading indicators. |
-| [misp-modules](https://github.com/MISP/misp-modules) | Extend MISP with enrichment, import, export, and workflow actions through reusable modules that can also run independently. |
+| [misp-modules](https://github.com/MISP/misp-modules) | Provide reusable enrichment, import, export, and workflow actions for MISP and other CTI tools, through an independent API and standalone interfaces. |
 | [AIL](https://github.com/ail-project/ail-framework) | Collect and analyse unstructured information, track leaks and threats, and support investigations. |
 | [Tempolocus](https://github.com/ail-project/tempolocus) | Infer likely timezones and locations from activity patterns over time, supporting analysis in AIL. |
 | [D4](https://github.com/D4-project/d4-core) | Build distributed sensor networks for collecting and analysing security telemetry. |
