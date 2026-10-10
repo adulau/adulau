@@ -8,6 +8,8 @@ My work spans incident response, threat intelligence, vulnerability research, di
 
 ## Open source over the years
 
+![Timeline of selected milestones from 2009 to 2026, with overlapping themes in threat intelligence, vulnerabilities, forensics, standards, research, community work, and wider interests.](assets/work-overview.svg)
+
 Keeping track of everything I have started, maintained, or contributed to is nearly impossible. This is a selection, built with many other people:
 
 - **Early tools and experiments:** [hotp-js](https://github.com/adulau/hotp-js), a JavaScript HOTP implementation dating back to 2009; [Forban](https://github.com/adulau/Forban), for opportunistic file sharing on local networks without Internet access; and passive DNS and certificate-monitoring tools.
