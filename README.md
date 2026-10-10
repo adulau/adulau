@@ -8,7 +8,7 @@ My work spans incident response, threat intelligence, vulnerability research, di
 
 ## Open source over the years
 
-![Timeline of selected milestones from 2009 to 2026, with overlapping themes in threat intelligence, vulnerabilities, forensics, standards, research, community work, and wider interests.](assets/work-overview.svg)
+![A conceptual sketch of curiosity, building, investigating, sharing, and open standards as overlapping threads flowing from earlier to now.](assets/work-overview.png)
 
 Keeping track of everything I have started, maintained, or contributed to is nearly impossible. This is a selection, built with many other people:
 
